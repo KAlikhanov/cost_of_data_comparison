@@ -6,7 +6,7 @@ The problems that I set out to try and address are listed below.
 
 1. Clutter: The visualization just had too much going on in my opinion, it was not easy to grasp the data within 10 seconds. So I wanted to make my data visualizations not be as cluttered.
 2. Readablilty: It was hard to get an idea of what the data actually looked like because of the way it is formatted, it is hard to contextualize just how much or how little of a difference there is using the original visualization because all of the data is on top of one another.
-3. Objective: While the objective of the original data set is easy to understand it is unclear how much the data supported the objective.
+3. Objective: As far as I could tell the objective was to inform the audience of the disparity between prices for 1GB of data between countries. It is unclear exactly how much of a disparity there was using the original visualization.
 
 ## Data visualizations
 Below is an image of my visualization, and below that will be an image of the original.
