@@ -19,3 +19,7 @@ By doing this I decluttered the data to just include what I wanted to use for my
 how the data supports my claims when comparing the extremes.
 
 Second, I chose to go with a bar graph, it is easily readable and will show off the comparisons between the data set in a very obvious way. Because this format for a data visualization is simple that also means it is very readable while effectively getting a message across to the audience.
+
+I decided to go with three visualizations because even though I cut down on the data it is still a lot to digest with just one graph. Having one section, a second section, and then them combined makes it easier to understand for the audience.
+
+In the original visualization they included some extra information, I decided to not put that information on my data but rather include it in the code below it in comparison_visualized. This is so that information wise my visualization is not lacking when compared to the original. Though I omitted some of the extraneous information that could not be derived from the data/ was not relevant.
