@@ -1,4 +1,5 @@
 # cost_of_data_comparison
+## Goal of this project
 The main goal of this project is to take a data set and visualization and try to improve upon it / fix some mistakes.
 Within comparison_visualized the first image seen is the data visualization I attempted to improve.
 The problems that I set out to try and address were as such:
@@ -7,10 +8,12 @@ The problems that I set out to try and address were as such:
 2. Readablilty: It was hard to get an idea of what the data actually looked like because of the way it is formatted, it is hard to contextualize just how much or how little of a difference there is using the original visualization because all of the data is on top of one another.
 3. Objective: While the objective of the original data set is easy to understand it is unclear how much the data supported the objective.
 
-## Below is an image of my visualization, and below that will be an image of the original.
+## Data visualizations
+Below is an image of my visualization, and below that will be an image of the original.
 ![data_viz](https://user-images.githubusercontent.com/68137495/184253651-13ac6d6c-6fac-4349-ac85-302de2868ccb.png)
 ![ziDtA7B9QyCypYZySfEn_image](https://user-images.githubusercontent.com/68137495/184254523-34b50387-384f-4b47-aabd-e74c7755187d.png)
 
+## Analysis and reasoning
 It is easy to see how the original visualization is a lot more fancy than mine.
 But my goal was to make the data less cluttered, more readable, and more driven.
 
