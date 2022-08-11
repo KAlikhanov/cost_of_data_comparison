@@ -7,6 +7,15 @@ The problems that I set out to try and address were as such:
 2. Readablilty: It was hard to get an idea of what the data actually looked like because of the way it is formatted, it is hard to contextualize just how much or how little of a difference there is using the original visualization because all of the data is on top of one another.
 3. Objective: While the objective of the original data set is easy to understand it is unclear how much the data supported the objective.
 
-Below is an image of my visualization, and below that will be an image of the original.
+## Below is an image of my visualization, and below that will be an image of the original.
 ![data_viz](https://user-images.githubusercontent.com/68137495/184253651-13ac6d6c-6fac-4349-ac85-302de2868ccb.png)
 ![ziDtA7B9QyCypYZySfEn_image](https://user-images.githubusercontent.com/68137495/184254523-34b50387-384f-4b47-aabd-e74c7755187d.png)
+
+It is easy to see how the original visualization is a lot more fancy than mine.
+But my goal was to make the data less cluttered, more readable, and more driven.
+
+First, I cut down the data set. The data that I chose to keep was the 20 cheapest and 20 most expensive countries.
+By doing this I decluttered the data to just include what I wanted to use for my visualization. This also helps with the objective as it makes it easier to see
+how the data supports my claims when comparing the extremes.
+
+Second, I chose to go with a bar graph, it is easily readable and will show off the comparisons between the data set in a very obvious way. Because this format for a data visualization is simple that also means it is very readable while effectively getting a message across to the audience.
